@@ -1,0 +1,8 @@
+{
+  "Agents": ["topic:ai-agents archived:false", "topic:agent-framework archived:false"],
+  "Harnesses": ["\"agent harness\" in:name,description,readme archived:false", "\"coding agent\" in:description archived:false"],
+  "Evaluation": ["\"agent evaluation\" in:description archived:false", "\"agent benchmark\" in:description archived:false"],
+  "Security": ["\"agent security\" in:description archived:false", "\"llm guardrails\" in:description archived:false"],
+  "Governance": ["\"agent governance\" in:name,description archived:false", "\"agent policy\" in:description archived:false"],
+  "Infrastructure": ["topic:model-context-protocol archived:false", "\"agent observability\" in:description archived:false"]
+}

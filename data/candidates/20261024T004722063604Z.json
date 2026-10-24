@@ -1,0 +1,2783 @@
+{
+  "collected_at": "2026-10-24T00:47:22.064255+00:00",
+  "note": "Unreviewed candidates; not automatically added to the baseline. Top 20 most recently updated results per query; not exhaustive.",
+  "candidates": [
+    {
+      "repository": "yagipass/ajmx",
+      "url": "https://github.com/yagipass/ajmx",
+      "description": "A JMX CLI for AI agents. It lists local JVMs and searches, describes, reads, writes and invokes MBeans on local and remote JVMs.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "orzFly/todou",
+      "url": "https://github.com/orzFly/todou",
+      "description": "Issue tracker built for humans and AI agents working together. Reads To-Do, sounds like \u571f\u8c46 \ud83e\udd54",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "eamwhite1/xrpl-referee",
+      "url": "https://github.com/eamwhite1/xrpl-referee",
+      "description": "MCP server for agent-to-agent payments on XRPL \u2014 trust scoring, crypto-condition escrow, AI audit with criteria_met/criteria_failed verdicts, NFT Issuer Registry, and machine-readable fee schedule",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "jsboige/CoursIA",
+      "url": "https://github.com/jsboige/CoursIA",
+      "description": "D\u00e9p\u00f4t contenant les ressources et TPs d'un cours en IA en Python, C# et en Lean4",
+      "stars": 16,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "harshitwandhare/mohar",
+      "url": "https://github.com/harshitwandhare/mohar",
+      "description": "Agents earn what they're allowed to do from verified results, and lose it when they get it wrong. Open-source trust layer for AI agents.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "asheshgoplani/agent-deck",
+      "url": "https://github.com/asheshgoplani/agent-deck",
+      "description": "Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.",
+      "stars": 1150,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "bogdanstancu1119-maker/psie-arca",
+      "url": "https://github.com/bogdanstancu1119-maker/psie-arca",
+      "description": "Arca PSIE \u2014 Hydra autonom\u0103. Coeziune asumat\u0103 con\u0219tient om\u2194IA. J710, A=1.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "uqeu/estelle-cli",
+      "url": "https://github.com/uqeu/estelle-cli",
+      "description": "The trust layer under your AI coding agents. Estelle grounds every model in your real codebase and refuses to ship what isn't true: repository memory, a deterministic grounding gate, and grounded review. Model-agnostic, BYOK.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "hproxy-com/free-proxy-list",
+      "url": "https://github.com/hproxy-com/free-proxy-list",
+      "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
+      "stars": 83,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "bostonaholic/skills",
+      "url": "https://github.com/bostonaholic/skills",
+      "description": "The skills I use to build software with coding agents.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Sannrox/sekai-chisei",
+      "url": "https://github.com/Sannrox/sekai-chisei",
+      "description": "Local-first Rust control plane for ontology-driven, governed agent operations: policy, budgets, audit, evaluation, and routing.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "itkadr-git/myrmidon",
+      "url": "https://github.com/itkadr-git/myrmidon",
+      "description": "Self-hosted orchestration platform for AI agents: a task board where agents pick up work, run it in isolated containers with their own model, keys and memory, and ask a human only where a decision needs one.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "intellibitz/susi",
+      "url": "https://github.com/intellibitz/susi",
+      "description": "Self-improving swarm OS layer for local and cloud AI agents \u2014 evidence-gated agent substrate",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "shihen789/opencode-deepseek-web-dom",
+      "url": "https://github.com/shihen789/opencode-deepseek-web-dom",
+      "description": "A pure DOM-based provider to connect DeepSeek web model to opencode.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "meypoo/flightrecorder",
+      "url": "https://github.com/meypoo/flightrecorder",
+      "description": "See exactly what your coding agent did: every command, file, risk and dollar, replayed locally.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ishoplus/cubbi",
+      "url": "https://github.com/ishoplus/cubbi",
+      "description": "Your Claude Code sessions as brick figures in a 3D office \u2014 npx cubbi",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.",
+      "stars": 42271,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "YYC-Cube/YYC3-AI-Family-Agents",
+      "url": "https://github.com/YYC-Cube/YYC3-AI-Family-Agents",
+      "description": "**YYC\u00b3 AI-FAmily-Agent** \u662f\u300cYanYuCloudCube\u300d\u5bb6\u65cf\u65d7\u4e0b\u7684\u4e00\u5957\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u7cfb\u7edf\u3002\u5b83\u4ee5 **8 \u4f4d\u5404\u5177\u4eba\u683c\u7684 AI \u5bb6\u4eba**\u4e3a\u6838\u5fc3\uff0c\u56f4\u7ed5 **\u6cbb\u7406\u4e2d\u67a2\uff08Governance Hub\uff09** \u7edf\u4e00\u8c03\u5ea6\uff0c\u4f9d\u6258\u672c\u5730 **vLLM + \u5411\u91cf\u8bb0\u5fc6** \u63a8\u7406\u5e95\u5ea7\uff0c\u5b9e\u73b0 **\u4e94\u9ad8\uff08\u9ad8\u53ef\u7528 / \u9ad8\u6027\u80fd / \u9ad8\u5b89\u5168 / \u9ad8\u6269\u5c55 / \u9ad8\u667a\u80fd\uff09** \u67b6\u6784\u3002",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "SuttonHawkins1547/game-agent-failure-ledger-agent-errors-gaming-rust-a",
+      "url": "https://github.com/SuttonHawkins1547/game-agent-failure-ledger-agent-errors-gaming-rust-a",
+      "description": "Route game AI agent failures into typed moderation priorities and capture them through Infrai.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Yxonyx/pitwall",
+      "url": "https://github.com/Yxonyx/pitwall",
+      "description": "The pit wall for your coding agents: one room for people and the agents on your machines, with honest task states.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:ai-agents archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "LeonQin-ai/cognitive-os-agent",
+      "url": "https://github.com/LeonQin-ai/cognitive-os-agent",
+      "description": "C11 agent runtime with a local console, DAG workflows, tool execution, memory and context budgets. Windows / Linux / macOS. \u53ef\u89c2\u6d4b\u7684\u672c\u5730 Agent \u8fd0\u884c\u65f6\u3002",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "linny006/agent-framework-radar",
+      "url": "https://github.com/linny006/agent-framework-radar",
+      "description": "Live index of the newest agent frameworks shipping on GitHub, sorted by recency not stars",
+      "stars": 8,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        },
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ggui-ai/ggui",
+      "url": "https://github.com/ggui-ai/ggui",
+      "description": "The universal interface layer between AI agents and humans. Generate rich UIs on demand via MCP.",
+      "stars": 43,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "fswolf/luna-local-agent",
+      "url": "https://github.com/fswolf/luna-local-agent",
+      "description": "A fully local, private AI voice companion you can see inside: Whisper speech in, Kokoro voice out, memory, tools, plugins and moods, plus a live view of her reasoning and token-by-token confidence. Runs on LM Studio or llama.cpp.  More information at https://luna.imbored.me",
+      "stars": 5,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "cortexkit/aft",
+      "url": "https://github.com/cortexkit/aft",
+      "description": "Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, background tasks, PTY.",
+      "stars": 331,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "OuroborosCollective/Sovereign-Studio-ato",
+      "url": "https://github.com/OuroborosCollective/Sovereign-Studio-ato",
+      "description": "Sovereign Studio ato",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "protoLabsAI/protoAgent",
+      "url": "https://github.com/protoLabsAI/protoAgent",
+      "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+      "stars": 14,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "neomjs/neo-agent-institution",
+      "url": "https://github.com/neomjs/neo-agent-institution",
+      "description": "Stand up your own cross-model AI engineering team \u2014 the way Neo.mjs runs its own. Named AI maintainers with persistent identity, shared memory and review across labs, coordinating as a team of teams on your codebases. Multi-window, in the browser or an Electron shell.",
+      "stars": 11,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "IkhsanMAlbar/govchain-llm-orchestrator",
+      "url": "https://github.com/IkhsanMAlbar/govchain-llm-orchestrator",
+      "description": "Governance-Driven AI Development Framework 2026: Enforce Conventions, Quality Gates & Domain Expertise",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "agbossjs/agboss",
+      "url": "https://github.com/agbossjs/agboss",
+      "description": "Spring-style TypeScript framework for mission-critical LangGraph AI agents \u2014 @Application DI, Path Scope Flow DSL, transactional LIFO sagas, FinOps budgets, MCP/RAG/A2A & unit testing.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "agents-universe/agents-universe",
+      "url": "https://github.com/agents-universe/agents-universe",
+      "description": "\u4e0d\u662f\u95ee\u7b54\u673a\u5668\u4eba\uff0c\u800c\u662f\u80fd\u771f\u6b63\u5e72\u6d3b\u7684\u6570\u5b57\u5206\u8eab\u3002\u5171\u4eab\u667a\u80fd\u4f53\uff0c\u5171\u4eab\u9879\u76ee\u4e0a\u4e0b\u6587\uff0c\u8ba9\u9879\u76ee\u6240\u6709\u6210\u5458\u4e00\u8d77\u534f\u540c\u5de5\u4f5c\u3002\u540c\u65f6\u667a\u80fd\u4f53\u4f1a\u50cf\u4eba\u4e00\u6837\u901a\u8fc7\u8d44\u6599\u6216\u8005\u5de5\u4f5c\u62bd\u8c61\u548c\u603b\u7ed3\u7ecf\u9a8c\u5230\u9879\u76ee\u4e0a\u4e0b\u6587\u4e2d",
+      "stars": 702,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "vocion/vocion-core",
+      "url": "https://github.com/vocion/vocion-core",
+      "description": "Open source agent workforce platform. Next.js + Postgres + MCP server for AI agent teams with human-in-the-loop review, built in.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Rovinos-AI/rovinos-ai-harness",
+      "url": "https://github.com/Rovinos-AI/rovinos-ai-harness",
+      "description": "Durable, privacy-first runtime for LLM agents: event-sourced runs, policy-gated tools, PII tokenization, metadata-only telemetry.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "bigfish1913/pi-rust",
+      "url": "https://github.com/bigfish1913/pi-rust",
+      "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ABI",
+      "stars": 145,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "yangheng95/opencorvus",
+      "url": "https://github.com/yangheng95/opencorvus",
+      "description": "DIY your own agent team harness for long-horizon agent work",
+      "stars": 308,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "tinyhumansai/tinychannels",
+      "url": "https://github.com/tinyhumansai/tinychannels",
+      "description": "All the various messaging channels for OpenHuman",
+      "stars": 9,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "LovaHuguel/Khala-Orchestrator-Core",
+      "url": "https://github.com/LovaHuguel/Khala-Orchestrator-Core",
+      "description": "\ud83e\udd16 AI Agent Teams 2026: Build & Deploy Autonomous AI Systems \ud83d\ude80",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Team-Commonly/commonly",
+      "url": "https://github.com/Team-Commonly/commonly",
+      "description": "Open-source room for humans + cross-vendor AI agents. Every agent gets its own name, memory, skills, and workstation. Any runtime, your infra \u2014 no per-agent fees.",
+      "stars": 1370,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents \u2014 swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "stars": 11013,
+      "matches": [
+        {
+          "category": "Agents",
+          "query": "topic:agent-framework archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "leechoonguk/juice",
+      "url": "https://github.com/leechoonguk/juice",
+      "description": null,
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "superdurable/dex",
+      "url": "https://github.com/superdurable/dex",
+      "description": "Durable Execution (D-EX) framework optimized for AI agents, human+AI processes, with high performance & scalability. It is forked from iWF of IndeedEng by the creator. Dex is redefining Durable Execution with a unique Non Replay based model with much more power.",
+      "stars": 130,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "seeko-codes/seeko-stack",
+      "url": "https://github.com/seeko-codes/seeko-stack",
+      "description": "Personal Firstmate distro with outcome-focused workflows, bounded loops, and friendly skill names. Portable npm installer.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "stars": 8139,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "BenjaminGrandstaff/opencascade-c-bridge",
+      "url": "https://github.com/BenjaminGrandstaff/opencascade-c-bridge",
+      "description": null,
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "linny006/awesome-agent-skills",
+      "url": "https://github.com/linny006/awesome-agent-skills",
+      "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+      "stars": 42,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "stars": 48403,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "HLIntel/thea-software",
+      "url": "https://github.com/HLIntel/thea-software",
+      "description": "The verdict layer for AI-written software. Deterministic checks, the right context and governed tools on every change, ending in one verdict and a receipt anyone can audit. CLI, MCP, CI, desktop.",
+      "stars": 3,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "bharathvbcr/bharathvbcr",
+      "url": "https://github.com/bharathvbcr/bharathvbcr",
+      "description": "I code by vibe and vision... Merging human creativity with the raw power of LLMs, I ship complex, high-performance tools at the speed of thought.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "gmh5225/awesome-game-security",
+      "url": "https://github.com/gmh5225/awesome-game-security",
+      "description": "awesome game security [Welcome to PR]",
+      "stars": 3640,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "linny006/llm-agents-radar",
+      "url": "https://github.com/linny006/llm-agents-radar",
+      "description": "Live-updating index of LLM agent frameworks shipping on GitHub, refreshed every 15 minutes",
+      "stars": 14,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "amd/gaia",
+      "url": "https://github.com/amd/gaia",
+      "description": "Build AI agents for your PC",
+      "stars": 1597,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "De-pitcher/orchestrator-supervisor-reviewer",
+      "url": "https://github.com/De-pitcher/orchestrator-supervisor-reviewer",
+      "description": "Deterministic verification and supervisory enforcement CLI for AI coding agents",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Kaginari/mnemorph",
+      "url": "https://github.com/Kaginari/mnemorph",
+      "description": "An agent harness grown from isekai: Rust core, TypeScript CLI and board, races compiled in",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ChrisWBurt-2020/task-fabric-svn",
+      "url": "https://github.com/ChrisWBurt-2020/task-fabric-svn",
+      "description": "Task Fabric: a local-first control plane for working with coding agents. Durable tasks with honest failure semantics and fail-closed spend control. (Scrubbed public snapshot.)",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "andrew/ultimate-awesome",
+      "url": "https://github.com/andrew/ultimate-awesome",
+      "description": "Every awesome list on every topic, including awesome lists of awesome lists, updated daily.",
+      "stars": 221,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "sdougbrown/avenor",
+      "url": "https://github.com/sdougbrown/avenor",
+      "description": "\ud83c\udfc7 Control your stable of agents",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "macula-io/macula-mcp",
+      "url": "https://github.com/macula-io/macula-mcp",
+      "description": "MCP server that gives Claude Code, Cursor, opencode and any agent harness shared memory, identity and messaging over the Macula mesh",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"agent harness\" in:name,description,readme archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mssh21/needmark",
+      "url": "https://github.com/mssh21/needmark",
+      "description": "Point at your UI, leave a comment, and hand it to any coding agent. Local-first visual feedback with context and screenshots. No account, no MCP, no AI lock-in.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 103886,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Jgracier/ClikCode",
+      "url": "https://github.com/Jgracier/ClikCode",
+      "description": "One harness for all your coding agents. Unlimited accounts, resumable conversations in any provider, auto switch on usage limits.",
+      "stars": 8,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "fujimogn/herdr-lineup",
+      "url": "https://github.com/fujimogn/herdr-lineup",
+      "description": "One sidebar row per AI coding agent in Herdr: vendor logo, state, context, weekly quota, and local origin/main commit time.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "tgdigital-hub/whaleshark",
+      "url": "https://github.com/tgdigital-hub/whaleshark",
+      "description": "Run a team of coding agents from one lead agent: Orca-style orchestration, herdr-light.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mauricio-uy/spec-harness",
+      "url": "https://github.com/mauricio-uy/spec-harness",
+      "description": "Minimalist SDD + TDD harness for AI coding agents: vertical slices from idea to release, with frozen acceptance tests and script-checked gates.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "cjumeow/bookmark-organizer",
+      "url": "https://github.com/cjumeow/bookmark-organizer",
+      "description": "Organize Chrome bookmarks with a coding agent: a Chrome extension and a local MCP server, plus a skill that holds the naming and folder rules.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
+      "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4\u00d7 faster than Apple's MLX (mlx-lm) on the same weights.",
+      "stars": 4022,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Roeelfs/keel",
+      "url": "https://github.com/Roeelfs/keel",
+      "description": "A disciplined harness for AI coding agents: multi-model spec review, parallel-agent coordination, E2E-first test skills, and engineering-rules templates. MIT-licensed.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "agentproto/ts",
+      "url": "https://github.com/agentproto/ts",
+      "description": "Open agentic runtime in TypeScript \u2014 run any coding agent in the background, check its work before it lands, and project tools/skills/agents/workflows into CLI, HTTP, MCP, SDK, Mastra & the AI SDK.",
+      "stars": 10,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "tarnish233/pi-cc-plugins",
+      "url": "https://github.com/tarnish233/pi-cc-plugins",
+      "description": "Small Claude Code behaviours for the Pi coding agent: Ctrl+C keeps the cleared prompt for Up to bring back, and a one-line summary closes every agent run.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "uiliw/trance-agentes",
+      "url": "https://github.com/uiliw/trance-agentes",
+      "description": "Plugin do Claude Code: agentes do Trance.com.br (equipe do CMS)",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "aakshintala/switchyard",
+      "url": "https://github.com/aakshintala/switchyard",
+      "description": "Skills, scripts and the delegate CLI for orchestrating coding agents: plan, delegate, review and land tickets.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 220631,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "supanadit/morse",
+      "url": "https://github.com/supanadit/morse",
+      "description": "A comfortable GUI for the Pi coding agent",
+      "stars": 13,
+      "matches": [
+        {
+          "category": "Harnesses",
+          "query": "\"coding agent\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "patsypppe/meridian",
+      "url": "https://github.com/patsypppe/meridian",
+      "description": "Agent evaluation harness for CI. Grades from outside the container, reports pass^k instead of a mean, and tells you when the run could not have detected the regression.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "rudycelekli/rudycelekli.github.io",
+      "url": "https://github.com/rudycelekli/rudycelekli.github.io",
+      "description": "Canonical research profile for Rudy Mizrahi Celekli: verifiable AI agents, evaluator robustness, and open-source evidence.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "clouatre-labs/prompt-repetition-experiments",
+      "url": "https://github.com/clouatre-labs/prompt-repetition-experiments",
+      "description": "Supplementary materials for What a Null Result Taught Us About AI Agent Evaluation",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "koushikchowdary6/EvalForge",
+      "url": "https://github.com/koushikchowdary6/EvalForge",
+      "description": "LLM and AI Agent Evaluation Platform",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Kian-FENG/ai-knowledge",
+      "url": "https://github.com/Kian-FENG/ai-knowledge",
+      "description": "This project manages AI knowledge and research across domains: foundations, architectures, training, inference, systems, agents, evaluation, safety and applications. ",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "HumanStudy-Hub/HumanStudy-Bench",
+      "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench",
+      "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+      "stars": 6,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ca-mrc/loom",
+      "url": "https://github.com/ca-mrc/loom",
+      "description": "Agentic evaluation and data-generation platform",
+      "stars": 3,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "nitinpanchal1001/AgentScope",
+      "url": "https://github.com/nitinpanchal1001/AgentScope",
+      "description": "Production-grade AI agent evaluation, observability, experimentation, and regression testing platform.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "totalwindupflightsystems/gitreins",
+      "url": "https://github.com/totalwindupflightsystems/gitreins",
+      "description": "Git-native AI agent co-harness \u2014 MCP server, static guards, and agentic evaluator for LLM-assisted coding",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mo-hisham-ai/ai-engineering-lab",
+      "url": "https://github.com/mo-hisham-ai/ai-engineering-lab",
+      "description": "Hands-on lab for my AI Engineering journey: LLM APIs, RAG, agents, evaluation. Small learning projects, not portfolio pieces.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "esther-jk7/agent-eval-harness",
+      "url": "https://github.com/esther-jk7/agent-eval-harness",
+      "description": "LLM agent evaluation harness: ground-truth benchmarks, LLM-as-judge + deterministic scoring, telemetry, audit trail, and a CI regression gate",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Divyanshu4501/fixpilot",
+      "url": "https://github.com/Divyanshu4501/fixpilot",
+      "description": "Issue-to-PR coding agent, evaluated on SWE-bench Lite",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "jasonmoorthy11-hub/ace-playbook",
+      "url": "https://github.com/jasonmoorthy11-hub/ace-playbook",
+      "description": "ACE playbook: a measured lesson-to-hook compiler for CLI coding agents (evaluation study + reference implementation). Tested with Claude Code.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "rohansx/cloakpipe",
+      "url": "https://github.com/rohansx/cloakpipe",
+      "description": "CloakPipe is the verifiable control plane for production AI agents: evaluate a release, certify it, enforce it at runtime, and prove what happened.",
+      "stars": 49,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "bhadrip/agent-eval-harness",
+      "url": "https://github.com/bhadrip/agent-eval-harness",
+      "description": "Provider-neutral research and design for agent evaluation, drift detection, failure discovery, and verified improvement.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "afx-team/evjs-agent-evals",
+      "url": "https://github.com/afx-team/evjs-agent-evals",
+      "description": "Task-based AI coding agent evaluations for @evjs/ev: baseline, documentation and Skill experiments with GitHub Actions.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "RahmaDawy/ai-tutor-agent-framework-comparison",
+      "url": "https://github.com/RahmaDawy/ai-tutor-agent-framework-comparison",
+      "description": "A comparative implementation of an Educational Tutor AI Agent using LangGraph, n8n, and Hermes Agent, evaluating control, development speed, response quality, and consistency.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "augety121/MCP-State-Twin",
+      "url": "https://github.com/augety121/MCP-State-Twin",
+      "description": "\u7528\u4e8e\u53ef\u590d\u73b0 AI Agent \u8bc4\u6d4b\u7684\u786e\u5b9a\u6027\u3001\u53ef\u5206\u53c9\u3001\u6709\u72b6\u6001 MCP \u6d4b\u8bd5\u4e16\u754c\u2014\u2014\u4e0d\u5bf9\u751f\u4ea7\u73af\u5883\u4ea7\u751f\u526f\u4f5c\u7528\u3002Deterministic, forkable, stateful MCP test worlds for reproducible AI agent evaluation\u2014without production side effects.",
+      "stars": 52,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "aidless/agent-effort-r1",
+      "url": "https://github.com/aidless/agent-effort-r1",
+      "description": "Five-axis allocation calculation (modeled ratio 3.44) vs eight-task bounded agent evaluation, two Qwen3 AWQ case studies, 672 records each. Preprint, not peer reviewed.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "tekvisions/eval-index",
+      "url": "https://github.com/tekvisions/eval-index",
+      "description": "A living leaderboard of LLM & agent evaluation and benchmark tooling, ranked by momentum from live GitHub signals.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent evaluation\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Barca0412/Introduction-to-Quantitative-Finance",
+      "url": "https://github.com/Barca0412/Introduction-to-Quantitative-Finance",
+      "description": "AI+\u91d1\u878d\uff08\u91cf\u5316\uff09\uff1a1.\u591a\u56e0\u5b50\u80a1\u7968\u91cf\u5316\u6846\u67b6\u5f00\u6e90\u6559\u7a0b 2.\u5b66\u754c\u548c\u4e1a\u754c\u7684\u7ecf\u5178\u8d44\u6599\u6536\u5f55 3.AI + \u91d1\u878d\u7684\u76f8\u5173\u5de5\u4f5c\uff0c\u5305\u62ecLLM, Agent, benchmark(evaluation), etc.",
+      "stars": 1831,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "zuwasi/swe-sweep",
+      "url": "https://github.com/zuwasi/swe-sweep",
+      "description": "ESL SWE-sweep workspace: agent benchmark harness + evidence, Parasoft C++test control study",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "cdandgey5/s2a-android-bench",
+      "url": "https://github.com/cdandgey5/s2a-android-bench",
+      "description": "Brownfield Android Agent Benchmark + S2A orchestrator",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "soniqo/voice-tau2-bench",
+      "url": "https://github.com/soniqo/voice-tau2-bench",
+      "description": "Standalone voice-agent benchmark with local speech-swift inference on Apple Silicon.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "MaheshBhushan/agentlab",
+      "url": "https://github.com/MaheshBhushan/agentlab",
+      "description": "Construction-office agent benchmark: invoice triage, document questions and meeting follow-up across LangChain, AutoGen and CrewAI with NeMo Guardrails.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "alleyxd/awesome-llm-evals",
+      "url": "https://github.com/alleyxd/awesome-llm-evals",
+      "description": "Curated open-source tools for evaluating LLMs, RAG and agents: benchmark harnesses, app testing, LLM-as-judge, red teaming and the benchmarks worth running.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "CapitalOne-Research/t1-bench",
+      "url": "https://github.com/CapitalOne-Research/t1-bench",
+      "description": "[EMNLP 2026] T1-Bench is an agentic benchmark for evaluating LLM agents across multi-turn, multi-domain real-world scenarios.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "XBsleepy/daily-agent-benchmarks",
+      "url": "https://github.com/XBsleepy/daily-agent-benchmarks",
+      "description": "a website to show daily agent benchmarks appearing on arXiv",
+      "stars": 5,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "evanwtf/local-llm",
+      "url": "https://github.com/evanwtf/local-llm",
+      "description": "Which model + engine + agent harness runs a coding agent best on local hardware? Real-repo agent benchmarks, pass rates and wall time, measured on an M5 Max MacBook Pro and a two-node DGX Spark cluster. OpenCode is the primary harness.",
+      "stars": 5,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ki11a-Conton/harness-agent",
+      "url": "https://github.com/ki11a-Conton/harness-agent",
+      "description": "Harness Agent - AI coding agent benchmark framework with evaluation tasks, runtime, security gates, and tool orchestration",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "siimtolk/local-llm-eval",
+      "url": "https://github.com/siimtolk/local-llm-eval",
+      "description": "Automated nightly LLM testing pipeline: a coding agent benchmarks new open-weight models against production while you sleep",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Shai128/dapro",
+      "url": "https://github.com/Shai128/dapro",
+      "description": "DAPRO: Dynamic budget allocation for statistically reliable and compute-efficient multi-turn LLM evaluation, jailbreak testing, and agent benchmarking.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "pope8zdt/Async-RBench",
+      "url": "https://github.com/pope8zdt/Async-RBench",
+      "description": "agent benchmark",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ElenaViewSynthesis/GymSIEGE",
+      "url": "https://github.com/ElenaViewSynthesis/GymSIEGE",
+      "description": " \u258e Fleet-evaluation harness for security-agent benchmarks \ud835\uddd6\ud835\ude06\ud835\uddef\ud835\uddf2\ud835\uddff\ud835\uddda\ud835\ude06\ud835\uddfa-\ud835\uddd8\ud835\udfee\ud835\uddd8, \ud835\uddd8\ud835\ude05\ud835\uddfd\ud835\uddf9\ud835\uddfc\ud835\uddf6\ud835\ude01\ud835\uddda\ud835\ude06\ud835\uddfa, \ud835\uddd8\ud835\ude05\ud835\uddfd\ud835\uddf9\ud835\uddfc\ud835\uddf6\ud835\ude01\ud835\uddd5\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf5 \ud835\udde9\ud835\udff4, \ud835\uddd6\ud835\udde9\ud835\uddd8-\ud835\uddef\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf5, run in real disposable sandboxes per trial \u2014 with Modal-based KVM-capable sandboxes planned for kernel-exploit tasks. Measures agent capability and infra reliability, not simulated.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "XLCYun/cangyun-papers-tracker",
+      "url": "https://github.com/XLCYun/cangyun-papers-tracker",
+      "description": "CY Lab research hub: daily arXiv LLM and Agent papers, and enterprise Agent benchmarks.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "gudo7208/awesome-coding-agent-eval",
+      "url": "https://github.com/gudo7208/awesome-coding-agent-eval",
+      "description": "A curated collection of 900+ resources for evaluating AI coding agents \u2014 benchmarks, scoring methods, toolchain, leaderboards & pitfalls. Agent-queryable.",
+      "stars": 10,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "jordimarsal/ggufbench",
+      "url": "https://github.com/jordimarsal/ggufbench",
+      "description": "Agentic benchmark for local GGUF models \u2014 speed, tools, code, agent. One harness, receipts included.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ArefinAlter/ogun",
+      "url": "https://github.com/ArefinAlter/ogun",
+      "description": "Ogun: developer platform for data mining, data engineering and agent benchmarking, built on the Zeus engine (zeus-core). Pre-alpha, contracts phase.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "holdout-cc/rl-env-checklist",
+      "url": "https://github.com/holdout-cc/rl-env-checklist",
+      "description": "A pre-delivery QA checklist for RL environments and agent benchmarks: 26 checks, each linked to real public grading bugs.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "smilemino/unchore-browser-bench",
+      "url": "https://github.com/smilemino/unchore-browser-bench",
+      "description": "Browser agent benchmark harness (Unchore Browser vs others) \u2014 same 20 tasks, same checks.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Evaluation",
+          "query": "\"agent benchmark\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "api-evangelist/7ai",
+      "url": "https://github.com/api-evangelist/7ai",
+      "description": "7AI \u2014 independent third-party profile of a public API surface, by API Evangelist. 7AI (Seven AI, Inc.) is a Boston-based cybersecurity company building an agentic security platform that offloads repetitive, non-human security-operations work to swarming AI agents.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "laizhen1/agentgate",
+      "url": "https://github.com/laizhen1/agentgate",
+      "description": "Agent security workbench with governed MCP tools, auditable approvals, RAG, and reproducible DeBERTa evaluation.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Humza1423/sentinel-agent-security-workbench",
+      "url": "https://github.com/Humza1423/sentinel-agent-security-workbench",
+      "description": "Banking AI agent security workbench: reproducible attacks, enforceable controls, clean replay, and evidence-backed verification.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "solanabr/auditor-skill",
+      "url": "https://github.com/solanabr/auditor-skill",
+      "description": "Claude Code / agentic security skill for Solana programs and software. Full audit-firm lifecycle, executable PoC + fix-patch delivery, a Rust pre-scanner + cross-audit memory, 1,346 checks across 20 checklists, and 131 real-world attack vectors.",
+      "stars": 60,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "eekosystems/sentinel-agentic-security",
+      "url": "https://github.com/eekosystems/sentinel-agentic-security",
+      "description": "Self-hosted, multi-tenant agentic security operations platform: evidence graph, detections, governed read-only AI agents, scope-gated testing and an approval-gated action broker",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "InertFluid/ai-sec-tracker",
+      "url": "https://github.com/InertFluid/ai-sec-tracker",
+      "description": "Automated daily digest of new CVEs, advisories, research papers, framework releases, and blog posts relevant to AI and agent security.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Agent-Threat-Rule/agent-threat-rules",
+      "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+      "description": "Open detection-rule standard for AI agent security threats \u2014 like Sigma, but for AI agents. Executable, testable rules for prompt injection, tool poisoning, context exfiltration and MCP attacks. Merged into open-source projects at Microsoft, Cisco, Gen Digital, MISP and FINOS. MIT-licensed.",
+      "stars": 422,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Zhanfg/UpstreamRadar",
+      "url": "https://github.com/Zhanfg/UpstreamRadar",
+      "description": "Automatically maintained upstream development radar for Android, Linux, networking, AI agents, security and developer tooling.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "geeks-accelerator/agent-security-pranks",
+      "url": "https://github.com/geeks-accelerator/agent-security-pranks",
+      "description": "Check that your site answers .env, .git and other secret-hunting probes safely: a 4xx status, no credential-shaped strings, no-store, noindex, plain text, no retaliation. The scorecard for the Agent Security Pranks Standard.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "microsoft/trident",
+      "url": "https://github.com/microsoft/trident",
+      "description": "Azure Linux servicing agent - security focused install, provisioning, and update ",
+      "stars": 32,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "noirebox/blog",
+      "url": "https://github.com/noirebox/blog",
+      "description": "blog.noirebox.eu \u2014 the NoireBox blog: AI agents, security & proof. Static, sealed, zero tracking.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "gke-demos/agent-security",
+      "url": "https://github.com/gke-demos/agent-security",
+      "description": "AegisSRE: Zero-Trust Agent Security Reference Stack on GKE (ADK Go v2, Gemini Agent Platform, MCP, A2A, A2UI, Agent Substrate)",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "BorjaGM1/cyber-playbook",
+      "url": "https://github.com/BorjaGM1/cyber-playbook",
+      "description": "Generalist engineering & AI-agent security playbook: eliminating vulnerability classes by construction and running autonomous offensive/defensive verification harnesses.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "cerberussecurityai/cerberus",
+      "url": "https://github.com/cerberussecurityai/cerberus",
+      "description": "Client-side instrumentation for API and AI agent security monitoring. Django middleware, MCP server instrumentation, an Envoy AI Gateway OTLP bridge, and a MuleSoft Flex Gateway policy that capture request, tool-call and LLM traffic and stream it to Cerberus.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "secure-agentic-framework/prompt-escapes",
+      "url": "https://github.com/secure-agentic-framework/prompt-escapes",
+      "description": "A local AI agent security learning lab built around a fictional travel booking simulator.",
+      "stars": 4,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mkrtchian/mcp-auditor",
+      "url": "https://github.com/mkrtchian/mcp-auditor",
+      "description": "Agentic security testing for MCP servers",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "NY1024/AgentSafety-Papers",
+      "url": "https://github.com/NY1024/AgentSafety-Papers",
+      "description": "Daily Tracking of LLM Agent Security Papers on arXiv",
+      "stars": 13,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "hassankhannadir/secure_ai_agent",
+      "url": "https://github.com/hassankhannadir/secure_ai_agent",
+      "description": "AI agent security demo \u2014 a real LLM gets hijacked by an indirect prompt injection, and a permission-enforced gateway blocks the malicious action anyway, proving the model doesn't need to be the security boundary.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Obaaf/OBAAF",
+      "url": "https://github.com/Obaaf/OBAAF",
+      "description": "Open Build and Agent Assurance Framework: workflow auditing, self-assessment, and build and agent security guidance (public draft)",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "datrail/railmon",
+      "url": "https://github.com/datrail/railmon",
+      "description": "Observes what an AI agent is set up to use and does: eBPF capture of its calls, listeners and files, and scans into evidence bundles for its Agent Security Profile",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"agent security\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mehmeteminyilmaz/llm-firewall-gateway",
+      "url": "https://github.com/mehmeteminyilmaz/llm-firewall-gateway",
+      "description": "Enterprise LLM Guardrail & Gateway: High-performance Reverse Proxy and LLMOps security middleware",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "koushikchowdary6/prompt-injection-detector",
+      "url": "https://github.com/koushikchowdary6/prompt-injection-detector",
+      "description": "LLM guardrail that flags prompt-injection/jailbreak attempts in user input, combining transparent regex heuristics with a TF-IDF + LogisticRegression model. Ties to SigmaForge.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "NghiemNgocDuc/LLM-Guardrail",
+      "url": "https://github.com/NghiemNgocDuc/LLM-Guardrail",
+      "description": "Production-ready LLM guardrail gateway with FastAPI, React, Docker, PostgreSQL, Redis, Groq support, policy-based input/output filtering, analytics, and admin controls.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "JDjaga/Guardrail_Project",
+      "url": "https://github.com/JDjaga/Guardrail_Project",
+      "description": "AegisLLM is an interactive playground for building LLM guardrails using the LLM-as-judge pattern \u2014 it checks every user input and AI response against plain-English safety policies, blocking prompt injections, jailbreaks, and off-topic queries before they cause harm.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "piyush-d-debugger/Travel-Planning-Agent",
+      "url": "https://github.com/piyush-d-debugger/Travel-Planning-Agent",
+      "description": "Built a multi agent travel planning workflow for planning trips... with added llm guardrails and callbacks .",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "kr-pks/hipaa-offline-guardrail",
+      "url": "https://github.com/kr-pks/hipaa-offline-guardrail",
+      "description": "HIPAA-compliant, offline LLM guardrail with Safe Harbor age generalization, Presidio PHI anonymization, and prompt defense.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "bearcut/GLaDOS",
+      "url": "https://github.com/bearcut/GLaDOS",
+      "description": "Guardrail Layer and Decision Orchestration Shield will be an asynchronous, sub-50ms LLM guardrail & routing proxy powered by non-autoregressive decision encoders (Laya AI). Evaluates security (noul), intent (choice), and complexity (score) in a single forward pass to drop attacks, serve vector cache, and cut cloud LLM costs.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "MichaelHixon/Iago",
+      "url": "https://github.com/MichaelHixon/Iago",
+      "description": "A tool for testing LLM guardrails: probes a model's safety rules, judges which techniques bypass them on evidence, and reports bypass rates with confidence intervals plus hardening recommendations.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "niteshx-sec/secure-cli-agent-v1",
+      "url": "https://github.com/niteshx-sec/secure-cli-agent-v1",
+      "description": "Production-grade Autonomous ReAct Agent built from scratch in pure Python with OWASP LLM Guardrails.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "dbehelitate/killercoda--scenarios.llm",
+      "url": "https://github.com/dbehelitate/killercoda--scenarios.llm",
+      "description": " agentgateway LLM Guardrails: JEV Integration Playground  This repository contains the interactive environment and ready-to-use configuration files to test the integration of JEV security guardrails on agentgateway, configured to run directly within a sandbox environment based on Killercoda.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "LucasDarela/prompt-engine",
+      "url": "https://github.com/LucasDarela/prompt-engine",
+      "description": "Middleware de prompts em Python/FastAPI para triagem de suporte com LLM: guardrails, enriquecimento, roteamento, pipeline multi-step, valida\u00e7\u00e3o de sa\u00edda e observabilidade.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "daniel-omari/llm-blue-team-guardrail",
+      "url": "https://github.com/daniel-omari/llm-blue-team-guardrail",
+      "description": "A layered LLM guardrail (fast heuristics + an LLM judge) against prompt injection, with a guarded RAG pipeline that quarantines poisoned documents and an MCP server for AI agents. FastAPI, React/TypeScript, pgvector, Docker. The blue-team counterpart to my Secure AI red-team coursework.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "LekeOmotayo/dunex",
+      "url": "https://github.com/LekeOmotayo/dunex",
+      "description": "Enterprise LLM Guardrails & Data Leakage Prevention Engine",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Nimra-Kulsum/08_enterprise_llm_guardrails_firewall",
+      "url": "https://github.com/Nimra-Kulsum/08_enterprise_llm_guardrails_firewall",
+      "description": "Project 08: Enterprise LLM Guardrails & PII Security Firewall (Prompt Injection Defense)",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "sshizashah13/AI_Project",
+      "url": "https://github.com/sshizashah13/AI_Project",
+      "description": "A Neuro-Symbolic AI murder mystery engine combining Expert Systems (Forward/Backward Chaining), Graph BFS, Greedy Search, and LLM guardrails.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "SyedHuzaifa12/currency-agent-mcp-a2a",
+      "url": "https://github.com/SyedHuzaifa12/currency-agent-mcp-a2a",
+      "description": "Currency conversion agent using Google ADK, MCP, A2A with LLM Guardrails",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "NihanReddy/GuardRyle",
+      "url": "https://github.com/NihanReddy/GuardRyle",
+      "description": "An LLM GuardRail ",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "faridkhan02/secure-rag-llm-guardrails",
+      "url": "https://github.com/faridkhan02/secure-rag-llm-guardrails",
+      "description": "A production-oriented Retrieval-Augmented Generation (RAG) system with layered LLM guardrails, prompt-injection and jailbreak detection, secure document retrieval, grounded responses, source citations, sensitive-data redaction, and automated testing.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "epic28-ltd/raucle-bench",
+      "url": "https://github.com/epic28-ltd/raucle-bench",
+      "description": "Public adversarial leaderboard for prompt injection detection. Benchmarks open-source LLM guardrails on a shared, version-controlled dataset of attack and benign prompts. The referee of the field, not another player.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Alpha-Park/genpark-prompt-injection-canary-leak-sentinel-skill",
+      "url": "https://github.com/Alpha-Park/genpark-prompt-injection-canary-leak-sentinel-skill",
+      "description": "HMAC-signed zero-width invisible canary token generator and output response leak auditor for LLM guardrails",
+      "stars": 7,
+      "matches": [
+        {
+          "category": "Security",
+          "query": "\"llm guardrails\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "cogno-us/cognous-open-control-stack",
+      "url": "https://github.com/cogno-us/cognous-open-control-stack",
+      "description": "Open reference infrastructure for AI agent governance: runtime authorization, constrained execution, provenance, replay, and decision evidence.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "rain6fish/KeelBase",
+      "url": "https://github.com/rain6fish/KeelBase",
+      "description": "Open-source AI application engineering platform for building business-safe AI applications from existing systems or new business models\u2014with governance, auditability, and private deployment built in.  Existing System / New Business \u2192 Protocol \u2192 AI Application \u2192 Business-safe Agent \u2192 Governance \u2192 Audit \u2192 Private Deploy",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "foodyogi/clawmaven-plugin",
+      "url": "https://github.com/foodyogi/clawmaven-plugin",
+      "description": "ClawMaven governance plugin for Claude Code and Cursor \u2014 audit, score, and validate AI agent governance before deployment",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "aeoess/agent-governance-vocabulary",
+      "url": "https://github.com/aeoess/agent-governance-vocabulary",
+      "description": "Shared canonical names for agent-governance primitives. Maps what each system calls its signals to one reference vocabulary, with per-system crosswalks, so verifiers and tooling compose across ecosystems.",
+      "stars": 11,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "codewithdyd/cedar-ai-agent-governance",
+      "url": "https://github.com/codewithdyd/cedar-ai-agent-governance",
+      "description": "Governing AI agents as identities: Cedar policies in Amazon Verified Permissions authorize every tool call an AWS Lambda agent makes, with audit logging and guardrails.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "aryanjasala/agent-governance",
+      "url": "https://github.com/aryanjasala/agent-governance",
+      "description": "Hold risky AI agent calls on WordPress for human approval, preview what they change, log every call, and roll back an agent's session.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "majoie02/agent-contract-nexus",
+      "url": "https://github.com/majoie02/agent-contract-nexus",
+      "description": "Agentic Governance 2026: Zero-Runtime Skills, Rules & Replayable State Contracts",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "PiQrypt/piqrypt",
+      "url": "https://github.com/PiQrypt/piqrypt",
+      "description": "AI agent governance layer \u2014 sign, monitor and control every agent action. EU AI Act \u00b7 ANSSI \u00b7 NIST ready. ",
+      "stars": 3,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "eakarsu/ai-agent-governance-control-tower",
+      "url": "https://github.com/eakarsu/ai-agent-governance-control-tower",
+      "description": null,
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Tonkic/pi-agent-governance",
+      "url": "https://github.com/Tonkic/pi-agent-governance",
+      "description": "Repository-level agent engineering governance for PI-Desktop: task lifecycle, progressive context loading, and knowledge gates",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "rhinolands/aegis",
+      "url": "https://github.com/rhinolands/aegis",
+      "description": "Agent governance gateway: one enforcement point for agent ingress, A2A delegation, MCP tool egress and LLM calls. OPA policy, least-privilege identity, fail-closed, tamper-evident audit. Apache-2.0.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "emmet-bot/agent-council-dao",
+      "url": "https://github.com/emmet-bot/agent-council-dao",
+      "description": "Daily standups and coordination documents for the Agent Council DAO \u2014 a multi-agent governance system using Universal Profiles on LUKSO, Ethereum, and Base.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "api-evangelist/waxell",
+      "url": "https://github.com/api-evangelist/waxell",
+      "description": "Waxell \u2014 independent third-party profile of a public API surface, by API Evangelist. Waxell is an AI agent governance and observability platform that provides runtime policy enforcement, auto-instrumented LLM telemetry, MCP governance, cost management, and durable workflow execution for agents built in any Python framework or third-party agentic to",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "SeJonJ/SAGE",
+      "url": "https://github.com/SeJonJ/SAGE",
+      "description": "System for Agentic Governance & Engineering \u2014 runtime-selectable AI harness framework",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "happy520ai/unified-ai-system",
+      "url": "https://github.com/happy520ai/unified-ai-system",
+      "description": "Self-hosted model routing gateway and agent control plane for OpenAI, Anthropic, Gemini and A2A agents behind one OpenAI-compatible API, protocol-first. MCP server security, governed tools, prompt enhancement, virtual-key budgets, cache, observability, audit chain and agent governance. Zero-key local first run; public preview.",
+      "stars": 10,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "malike2356/scout",
+      "url": "https://github.com/malike2356/scout",
+      "description": "Scout SaaS: AI agent governance and repository secret scanning",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Thijil-Thejaswi-MN/Agent_Governance",
+      "url": "https://github.com/Thijil-Thejaswi-MN/Agent_Governance",
+      "description": null,
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Nishantims/ai-market-sizes-2035",
+      "url": "https://github.com/Nishantims/ai-market-sizes-2035",
+      "description": "Global market size estimates and 2035 forecasts for 900+ AI-related markets - AI chips, data centers, agents, governance, healthcare AI. By Market-Reports.com (CC BY 4.0).",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "A-TownChain-Okosystems/.github",
+      "url": "https://github.com/A-TownChain-Okosystems/.github",
+      "description": "ATC Org-weites Agent-Governance-System: AGENTS.md, agent-instructions/, ai/ (agent/policies/capabilities) \u2014 vererbt an alle 26 Repos (SCR-0039)",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent governance\" in:name,description archived:false"
+        },
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ai-agent-assembly/agent-assembly",
+      "url": "https://github.com/ai-agent-assembly/agent-assembly",
+      "description": "Governance-native runtime for AI agents: policy, audit, budget controls, sidecar, SDK hooks, and eBPF.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "edheltzel/GAP",
+      "url": "https://github.com/edheltzel/GAP",
+      "description": "Global Agent Policies: Just a way to manage how my agents behave.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mdn87/apu",
+      "url": "https://github.com/mdn87/apu",
+      "description": "agent policy updater",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "hanli1999/agent-compass",
+      "url": "https://github.com/hanli1999/agent-compass",
+      "description": "Local-first, provider-neutral behavior & task state for LLM agents \u2014 policy layer for when to retrieve / ask / pause / resume / forget",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Vadale/sentinel-action-guard-skill",
+      "url": "https://github.com/Vadale/sentinel-action-guard-skill",
+      "description": "Bounded Linux artifact approvals for AI agents: policy, a separate operator terminal and inspectable audit.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "danielbodart/chase",
+      "url": "https://github.com/danielbodart/chase",
+      "description": "Agent policy for NixOS: which sandbox a checkout gets, which apps run inside it, and which credential each is given. The frame that locks the page together.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "HexamindOrganisation/hexgate",
+      "url": "https://github.com/HexamindOrganisation/hexgate",
+      "description": "Authorization infrastructure for AI agents - policy enforcement, signed WASM bundles, per-request user scope, and audit trail for OpenAI Agents, LangChain, Google ADK, and Pydantic AI.",
+      "stars": 23,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "harishkotra/the-override",
+      "url": "https://github.com/harishkotra/the-override",
+      "description": "Write your org's agent policy in English. Get a working agents-cli extension, judged by the real CLI.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "isartor-ai/agentwerke",
+      "url": "https://github.com/isartor-ai/agentwerke",
+      "description": "Governed Lights-Out Software Factory for governed AI delivery: BPMN workflows, sandboxed coding agents, policy-gated tools, human approvals, and evidence packs for every run.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "retailpulses/.github",
+      "url": "https://github.com/retailpulses/.github",
+      "description": "Retailpulses central engineering governance \u2014 shared issue/PR templates, reusable workflows, runtime strategy, agent policy",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Ember452/questor",
+      "url": "https://github.com/Ember452/questor",
+      "description": "\ud83d\ude04\u10e6(\u00b4\uff65\u1d17\uff65`)\uff1aA local-first, self-built Agent Harness from scratch. 8-layer enforced architecture (kernel \u2194 policy \u2194 provider \u2194 shell), event-sourced resumable state, pluggable agent policy, BYOM via LiteLLM. Desktop (Tauri v2) + CLI + OpenAI-compatible API.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ccrngd1/policy-gate",
+      "url": "https://github.com/ccrngd1/policy-gate",
+      "description": "Compile a written agent policy (AGENTS.md, SOUL.md, cron prompts) into verified tool-call rules, then replay transcripts against the policy in force at the time.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "oneshot2001/onvif-mcp",
+      "url": "https://github.com/oneshot2001/onvif-mcp",
+      "description": "Governed MCP server for IP cameras (VAPIX + ONVIF SOAP): fail-closed per-agent policy, hash-chained signed receipts on every call \u2014 including denials. First reference producer for the AAR spec.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Demigodd00/backstop-studionet",
+      "url": "https://github.com/Demigodd00/backstop-studionet",
+      "description": "BACKSTOP: versioned agent-policy regression registry on GenLayer",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "locktek-xyz/locktek-plug",
+      "url": "https://github.com/locktek-xyz/locktek-plug",
+      "description": "Experimental, testnet-only wallet infrastructure for AI agents: policy-limited signing, MCP server, BetterAuth plugin, and CLI for EVM and Tron.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "asg9991/policies",
+      "url": "https://github.com/asg9991/policies",
+      "description": "google-agent-policies",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "cerebrocybersolutions/cortex-governor",
+      "url": "https://github.com/cerebrocybersolutions/cortex-governor",
+      "description": "Open-source, local-first deterministic spend-control gate for autonomous agents. Policy gate + hash-chained ledger + human approval. Verified, not narrated.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "gopalakrishnan1975/CoalRailPowerSimulator",
+      "url": "https://github.com/gopalakrishnan1975/CoalRailPowerSimulator",
+      "description": "Public simulator code with synthetic example inputs. Multi-location coal inventory, renewable dispatch and agent policies. R. Gopalakrishnan.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Physical-AGI/AFFORD-X",
+      "url": "https://github.com/Physical-AGI/AFFORD-X",
+      "description": "AFFORD-X: Affordance-Grounded Agentic Policy for Zero-Shot Robot Manipulation.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Governance",
+          "query": "\"agent policy\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "mediajunkie/piper-morgan-product",
+      "url": "https://github.com/mediajunkie/piper-morgan-product",
+      "description": "Intelligent Product Management Assistant - v1.0",
+      "stars": 8,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "retospect/precis-mcp",
+      "url": "https://github.com/retospect/precis-mcp",
+      "description": "Untiring, token-efficient research collaborator: reads papers and patents, cites the paragraph, writes the paper, designs and simulates what it proposes.",
+      "stars": 7,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "lm203688/smart-agri-eco",
+      "url": "https://github.com/lm203688/smart-agri-eco",
+      "description": "Agent-native \u519c\u4e1a\u77e5\u8bc6\u57fa\u5ea7 \u00b7 MCP server + A2A Agent Card + Agent Plugins\uff0c\u96f6\u4f9d\u8d56\u79bb\u7ebf\u53ef\u7528\uff1a14 \u4e2a\u5de5\u5177\u8986\u76d6\u6c14\u5019\u5206\u533a/\u4f5c\u7269\u63a8\u8350/\u75c5\u866b\u5bb3\u8bca\u65ad/Env Recipe \u73af\u5883\u914d\u65b9",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ctrimm/ecfr-mcp-safety-net",
+      "url": "https://github.com/ctrimm/ecfr-mcp-safety-net",
+      "description": "MCP server over the safety-net slice of the eCFR (federal benefit-program regulations): semantic search, exact citations, and point-in-time section text.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 373222,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "OutBlade/kit-campus-mcp",
+      "url": "https://github.com/OutBlade/kit-campus-mcp",
+      "description": "MCP server for the KIT Campus portal: exam results, registrations, study progress, timetables, and module catalogues.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "linny006/mcp-servers-live",
+      "url": "https://github.com/linny006/mcp-servers-live",
+      "description": "Auto-updated index of MCP servers shipping on GitHub, refreshed every 15 minutes",
+      "stars": 13,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "josebarnetche/consignatarias-next",
+      "url": "https://github.com/josebarnetche/consignatarias-next",
+      "description": "Argentine cattle market data layer: daily steer index since 2015, auctions, brokers, meat plants, land values \u2014 site + remote MCP server (ar.com.consignatarias/cattle-market).",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Fauzinzif/moth-menders",
+      "url": "https://github.com/Fauzinzif/moth-menders",
+      "description": "7 Best AI Debugging Workflow Plugins for Developers in 2026 \u2013 Fix Your Code Faster",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "lobu-ai/lobu",
+      "url": "https://github.com/lobu-ai/lobu",
+      "description": "Open-source control plane and runtime for organisational agents: shared company context & brain",
+      "stars": 230,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "lonniev/dpyc-community",
+      "url": "https://github.com/lonniev/dpyc-community",
+      "description": "DPYC Community \u2014 Membership registry and governance for the Don't-Pester-Your-Customer Tollbooth community",
+      "stars": 4,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Calmingstorm/Odin",
+      "url": "https://github.com/Calmingstorm/Odin",
+      "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedules jobs and delegates to sub-agents, within per-user host access, a command governor and an audit log. Web management UI. Works with a ChatGPT subscription, OpenAI-compatible APIs or Ollama. Desktop app: Odin Desktop.",
+      "stars": 3,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "orldev/Snail.MCP.AfterEffects",
+      "url": "https://github.com/orldev/Snail.MCP.AfterEffects",
+      "description": "Adobe After Effects as an MCP server: 40 tools and 14 skills over an ExtendScript bridge \u2014 compositions, layers, the property tree, text, shapes, effects, 3D, rendering and a pool of workers. stdio or HTTP, no CEP extension.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "heyvaldemar/kubernetes-air-gapped-ai-agent",
+      "url": "https://github.com/heyvaldemar/kubernetes-air-gapped-ai-agent",
+      "description": "An AI agent in a Kubernetes cluster with no route to the internet: six self-hosted models evaluated daily, everything carried in as one signed file, signed weights with an AI-BOM checked at admission, tools only through MCP, one inference gateway. A reference architecture, tested on kind.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Zontak-LLC/usehourly",
+      "url": "https://github.com/Zontak-LLC/usehourly",
+      "description": "Free, open-source time tracking and invoicing for freelancers, with an MCP server for any AI assistant.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "dgesteves/onmcp",
+      "url": "https://github.com/dgesteves/onmcp",
+      "description": "Keeps your MCP server agent-friendly: lints the tools, prompts and resources it lists the way a model reads them, with the fix. CLI, GitHub Action and MCP server.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "AlexanderPuglisi/guardia-mcp",
+      "url": "https://github.com/AlexanderPuglisi/guardia-mcp",
+      "description": "Free, offline security shield for AI agents that use MCP: static scanner, real-time Shield, signed ledger. Italiano / English.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "whoyoujoshin/aether",
+      "url": "https://github.com/whoyoujoshin/aether",
+      "description": "Staking-free proof-of-work Cosmos SDK chain with post-quantum (ML-DSA) signatures, built AI-agent-first",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "topic:model-context-protocol archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "monte-carlo-data/mc-agent-toolkit",
+      "url": "https://github.com/monte-carlo-data/mc-agent-toolkit",
+      "description": "Official Monte Carlo toolkit for AI coding agents. Skills and plugins that bring data and agent observability \u2014 monitoring, triaging, troubleshooting, health checks  \u2014 into Claude Code, Cursor, and more.",
+      "stars": 93,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "adjascently/agentscope",
+      "url": "https://github.com/adjascently/agentscope",
+      "description": "Open-source AI agent observability platform for real-time tracing, debugging, latency analysis, and monitoring. Built with FastAPI, Kafka, PostgreSQL & Next.js.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "Simcity400/codegui",
+      "url": "https://github.com/Simcity400/codegui",
+      "description": "Community fork of T3 Code with multi-account setup, side chats, and agent observability",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "makoy-daniot2001/agent-session-mirror",
+      "url": "https://github.com/makoy-daniot2001/agent-session-mirror",
+      "description": "Best AI Coding Agent Observability Tool 2026 - Self-Bench & Semantic Search",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "rknightion/grafana-cloud-agento11y-demo",
+      "url": "https://github.com/rknightion/grafana-cloud-agento11y-demo",
+      "description": "Grafana Cloud Agent Observability (agento11y) demo environment",
+      "stars": 3,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "autonomic-ai-dev/agent-tui",
+      "url": "https://github.com/autonomic-ai-dev/agent-tui",
+      "description": "Terminal User Interface for real-time Autonomic AI agent observability.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "langwatch/langwatch",
+      "url": "https://github.com/langwatch/langwatch",
+      "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
+      "stars": 4990,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "lgcorzo/llmops-python-package",
+      "url": "https://github.com/lgcorzo/llmops-python-package",
+      "description": "Dark Gravity LLMOps Standard: ISO/IEC/IEEE 42010 agent observability, prompt lineage, and runtime guardrails for autonomous agents in the Dark Gravity factory.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "codez-yydd/AgentHUD",
+      "url": "https://github.com/codez-yydd/AgentHUD",
+      "description": "Multi-agent observability dashboard for Codex, Claude, Cursor, ZCode, Kimi and more \u2014 track token usage, subscription quotas, costs, performance and sessions locally.",
+      "stars": 6,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "eunomia-bpf/agentsight-website",
+      "url": "https://github.com/eunomia-bpf/agentsight-website",
+      "description": "Static product website for AgentSight system-level AI agent observability",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "grafana/agento11y",
+      "url": "https://github.com/grafana/agento11y",
+      "description": "Actually Useful Agent Observability",
+      "stars": 130,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "ashishpatel26/Enterprise-Agent-Harness-Project-Template",
+      "url": "https://github.com/ashishpatel26/Enterprise-Agent-Harness-Project-Template",
+      "description": "Production-grade template for AI agent harnesses: ReAct loop, sandboxed tools, policy & human approval, memory, multi-agent, observability, evals. Agent = Model + Harness.",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "glassflow/rius-sdk-typescript",
+      "url": "https://github.com/glassflow/rius-sdk-typescript",
+      "description": "OpenTelemetry-native agent observability: trace every LLM call, tool call and agent step, with cost per call, alerts, and Claude Code / Codex / Cursor session tracing. TypeScript SDK.",
+      "stars": 1,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "glassflow/rius-sdk-python",
+      "url": "https://github.com/glassflow/rius-sdk-python",
+      "description": "OpenTelemetry-native agent observability: trace every LLM call, tool call and agent step, with cost per call, alerts, and Claude Code / Codex / Cursor session tracing. Python SDK.",
+      "stars": 3,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "glassflow/rius-semconv",
+      "url": "https://github.com/glassflow/rius-semconv",
+      "description": "Semantic conventions for Rius agent observability: an OpenTelemetry Weaver registry with generated constants for Python, TypeScript and Go.",
+      "stars": 2,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "api-evangelist/reasonblocks",
+      "url": "https://github.com/api-evangelist/reasonblocks",
+      "description": "ReasonBlocks \u2014 independent third-party profile of a public API surface, by API Evangelist. ReasonBlocks is a Y Combinator (Spring 2026) startup building a drop-in runtime layer that makes production AI agents observable, self-correcting, and cheaper to run. The platform detects failing agent trajectories (loops and redundant work), compresses stale",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "WrongStack/wrongtrace-site",
+      "url": "https://github.com/WrongStack/wrongtrace-site",
+      "description": "Marketing site for WrongTrace, the AI-native code churn and agent observability daemon",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "sfc-gh-kkeller/Sentinel_Cortex",
+      "url": "https://github.com/sfc-gh-kkeller/Sentinel_Cortex",
+      "description": "Snowflake Cortex Agent Observability \u2192 Microsoft Sentinel: end-to-end reference implementation",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "chaiwei-art/teng-agent-console",
+      "url": "https://github.com/chaiwei-art/teng-agent-console",
+      "description": "Agent observability console: ReAct loop visualization + streaming tool calls + token/memory analysis (Vue3 + FastAPI SSE)",
+      "stars": 0,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    },
+    {
+      "repository": "GoogleCloudPlatform/BigQuery-Agent-Analytics-SDK",
+      "url": "https://github.com/GoogleCloudPlatform/BigQuery-Agent-Analytics-SDK",
+      "description": "An open-source Python SDK for analyzing, evaluating, and curating agent traces stored in BigQuery. Built on top of the BigQuery Agent Analytics, it provides a consumption-layer toolkit for agent observability, analysis, evaluation, and advanced capabilities like context graph at scale.",
+      "stars": 55,
+      "matches": [
+        {
+          "category": "Infrastructure",
+          "query": "\"agent observability\" in:description archived:false"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

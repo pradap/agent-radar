@@ -1,0 +1,66 @@
+category	repository	reason
+Agents	langchain-ai/langgraph	Stateful graph orchestration for agent workflows.
+Agents	microsoft/autogen	Multi-agent conversation and orchestration framework.
+Agents	microsoft/agent-framework	Agent development framework with workflow orchestration.
+Agents	crewAIInc/crewAI	Role-based multi-agent task coordination.
+Agents	openai/openai-agents-python	Agent SDK with tools, handoffs and tracing.
+Agents	google/adk-python	Agent development toolkit and orchestration.
+Agents	huggingface/smolagents	Lightweight agents that execute tool calls and code.
+Agents	pydantic/pydantic-ai	Typed agent application framework.
+Agents	agno-agi/agno	Agent framework with tools, memory and teams.
+Agents	letta-ai/letta	Stateful agents with persistent memory.
+Agents	camel-ai/camel	Multi-agent research and application framework.
+Agents	i-am-bee/beeai-framework	Framework for building agent workflows.
+Agents	mastra-ai/mastra	TypeScript agent and workflow framework.
+Agents	VoltAgent/voltagent	TypeScript agent engineering framework.
+Harnesses	OpenHands/OpenHands	Execution environment for software engineering agents.
+Harnesses	SWE-agent/SWE-agent	Coding-agent scaffold for resolving repository issues.
+Harnesses	SWE-agent/mini-swe-agent	Minimal coding-agent harness for inspection and experimentation.
+Harnesses	openai/codex	Coding-agent runtime and command-line tooling.
+Harnesses	anthropics/claude-agent-sdk-python	SDK for running coding-agent workflows.
+Harnesses	Aider-AI/aider	Repository-aware coding assistant and execution loop.
+Harnesses	aaif-goose/goose	Extensible local agent with tool integrations.
+Harnesses	browser-use/browser-use	Browser automation harness for AI agents.
+Harnesses	microsoft/playwright-mcp	Browser tool interface for agent execution.
+Harnesses	langchain-ai/deepagents	Agent harness with planning, filesystem tools and delegation.
+Evaluation	SWE-bench/SWE-bench	Benchmark and evaluation infrastructure for coding agents.
+Evaluation	UKGovernmentBEIS/inspect_ai	Framework for evaluating language models and agents.
+Evaluation	UKGovernmentBEIS/inspect_evals	Evaluation suites built on Inspect.
+Evaluation	EleutherAI/lm-evaluation-harness	Related model-level evaluation harness; not an agent runtime.
+Evaluation	promptfoo/promptfoo	Evaluation and red-teaming of LLM applications.
+Evaluation	confident-ai/deepeval	Evaluation tests and metrics for LLM systems.
+Evaluation	vibrantlabsai/ragas	Evaluation of retrieval and LLM application behavior.
+Evaluation	truera/trulens	Evaluation and tracing of LLM applications.
+Evaluation	ServiceNow/AgentLab	Experiment and evaluation tooling for browser agents.
+Evaluation	ServiceNow/BrowserGym	Browser-agent benchmark environments.
+Evaluation	ethz-spylab/agentdojo	Benchmark for agent prompt-injection defenses.
+Security	NVIDIA-NeMo/Guardrails	Programmable guardrails for conversational and agent systems.
+Security	guardrails-ai/guardrails	Validation and guardrails for model outputs.
+Security	protectai/llm-guard	Input and output security scanning for LLM applications.
+Security	NVIDIA/garak	LLM vulnerability probing and security evaluation.
+Security	microsoft/PyRIT	Risk identification and adversarial testing for generative AI.
+Security	data-privacy-stack/presidio	Sensitive-data detection and redaction for AI data flows.
+Security	invariantlabs-ai/invariant	Security policies and analysis for agent behavior.
+Security	e2b-dev/E2B	Isolated execution environments for agent-generated code.
+Security	daytonaio/daytona	Sandbox infrastructure for running agent workloads.
+Security	opensandbox-group/OpenSandbox	Sandbox runtime for isolating AI agent execution.
+Governance	microsoft/agent-governance-toolkit	Runtime governance and policy controls for autonomous agents.
+Governance	open-policy-agent/opa	General-purpose policy engine applicable to agent authorization.
+Governance	cedar-policy/cedar	Authorization policy language applicable to agent permissions.
+Governance	openfga/openfga	Relationship-based authorization infrastructure for tool access.
+Governance	cerbos/cerbos	Application authorization policies applicable to agent tools.
+Governance	apache/casbin	Access-control library applicable to agent permissions.
+Governance	microsoft/responsible-ai-toolbox	Related responsible-AI assessment and debugging tooling.
+Governance	fairlearn/fairlearn	Related fairness assessment tooling; not an agent policy engine.
+Infrastructure	modelcontextprotocol/python-sdk	Python SDK for the Model Context Protocol.
+Infrastructure	modelcontextprotocol/typescript-sdk	TypeScript SDK for the Model Context Protocol.
+Infrastructure	modelcontextprotocol/servers	Reference tool servers for agent integrations.
+Infrastructure	a2aproject/A2A	Agent-to-agent interoperability protocol.
+Infrastructure	PrefectHQ/fastmcp	Framework for building MCP servers and clients.
+Infrastructure	mem0ai/mem0	Persistent memory infrastructure for AI agents.
+Infrastructure	getzep/graphiti	Temporal knowledge graphs for agent memory.
+Infrastructure	langfuse/langfuse	LLM and agent tracing, evaluation and observability.
+Infrastructure	Arize-ai/phoenix	Tracing and evaluation for LLM and agent applications.
+Infrastructure	AgentOps-AI/agentops	Observability and monitoring for agent runs.
+Infrastructure	openlit/openlit	OpenTelemetry-based observability for AI systems.
+Infrastructure	BerriAI/litellm	Model gateway with usage and access controls.

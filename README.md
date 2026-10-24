@@ -18,7 +18,15 @@ python3 -m unittest discover -s tests -v
 
 `discover` runs the editable topic searches and saves unreviewed candidates separately. It takes the 20 most recently updated matches per query, deduplicates them and records the query that found each one. It is a bounded discovery sample, not an exhaustive GitHub index or a trending ranking. Review candidates before adding them to the seed file. Search API limits can differ from general API limits; failures are saved explicitly.
 
-Run collection once daily when ready to establish trend history. No recurring job is enabled in this milestone.
+## Daily collection
+
+The [daily GitHub workflow](.github/workflows/collect.yml) is prepared to run at **06:17 UTC each day** after this repository is published to GitHub with Actions enabled. That is 1:17 a.m. Chicago daylight time or 12:17 a.m. standard time. GitHub may delay scheduled runs.
+
+It runs the tests, collects metadata, and commits snapshots and reports to the default branch. It uses the built-in GitHub token; no personal token secret is needed. Concurrent collection runs are serialized. Partial observations are retained, but an incomplete collection still marks the run failed. If all lookups fail, existing reports remain unchanged.
+
+For the first hosted run, select **Actions → Daily repository radar → Run workflow**. Publishing and a successful hosted run must be verified before treating daily collection as active. Repository policies must allow Actions and writes to the default branch.
+
+To pause collection, disable the workflow in GitHub Actions. Discovery remains a manual command so unreviewed candidates cannot silently enter the baseline.
 
 ## Coverage and curation
 

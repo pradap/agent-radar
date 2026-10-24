@@ -1,6 +1,6 @@
 # Agent Radar — repository baseline
 
-Collected: 2026-10-24T00:46:43.820545+00:00 (UTC).
+Collected: 2026-10-24T00:54:15.398831+00:00 (UTC).
 
 65 verified repositories across 6 categories; 0 collection errors.
 
@@ -59,7 +59,7 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [openai/codex](https://github.com/openai/codex) | 130,666 | — | — | 2026-10-23 | Apache-2.0 | Active repository | Coding-agent runtime and command-line tooling. |
+| [openai/codex](https://github.com/openai/codex) | 130,668 | — | — | 2026-10-23 | Apache-2.0 | Active repository | Coding-agent runtime and command-line tooling. |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 118,983 | — | — | 2026-10-24 | MIT | Active repository | Browser automation harness for AI agents. |
 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 91,679 | — | — | 2026-10-23 | MIT | Active repository | Execution environment for software engineering agents. |
 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | 55,598 | — | — | 2026-10-23 | Apache-2.0 | Active repository | Extensible local agent with tool integrations. |
@@ -124,7 +124,7 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 | [NVIDIA/garak](https://github.com/NVIDIA/garak) | 9,677 | — | — | 2026-10-23 | Apache-2.0 | Active repository | LLM vulnerability probing and security evaluation. |
 | [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) | 7,557 | — | — | 2026-10-21 | Apache-2.0 | Active repository | Validation and guardrails for model outputs. |
 | [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | 7,355 | — | — | 2026-10-23 | NOASSERTION | Active repository | Programmable guardrails for conversational and agent systems. |
-| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | 4,676 | — | — | 2026-10-23 | MIT | Active repository | Risk identification and adversarial testing for generative AI. |
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | 4,677 | — | — | 2026-10-23 | MIT | Active repository | Risk identification and adversarial testing for generative AI. |
 | [protectai/llm-guard](https://github.com/protectai/llm-guard) | 3,218 | — | — | 2026-07-08 | MIT | Archived | Input and output security scanning for LLM applications. |
 | [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) | 474 | — | — | 2026-01-12 | Apache-2.0 | Active repository | Security policies and analysis for agent behavior. |
 
@@ -174,7 +174,7 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,924 | — | — | 2026-10-24 | NOASSERTION | Active repository | Model gateway with usage and access controls. |
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | 36,270 | — | — | 2026-10-23 | NOASSERTION | Active repository | LLM and agent tracing, evaluation and observability. |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | 32,170 | — | — | 2026-10-23 | Apache-2.0 | Active repository | Temporal knowledge graphs for agent memory. |
-| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 28,186 | — | — | 2026-10-23 | Apache-2.0 | Active repository | Framework for building MCP servers and clients. |
+| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 28,186 | — | — | 2026-10-24 | Apache-2.0 | Active repository | Framework for building MCP servers and clients. |
 | [a2aproject/A2A](https://github.com/a2aproject/A2A) | 26,273 | — | — | 2026-10-21 | Apache-2.0 | Active repository | Agent-to-agent interoperability protocol. |
 | [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 24,656 | — | — | 2026-10-24 | MIT | Active repository | Python SDK for the Model Context Protocol. |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 13,641 | — | — | 2026-10-23 | NOASSERTION | Active repository | TypeScript SDK for the Model Context Protocol. |

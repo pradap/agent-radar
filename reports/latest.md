@@ -1,6 +1,6 @@
 # Agent Radar — repository baseline
 
-Collected: 2026-11-23T18:15:09.243074+00:00 (UTC).
+Collected: 2026-11-24T17:49:50.897151+00:00 (UTC).
 
 64 verified repositories across 6 categories; 1 collection errors.
 
@@ -23,19 +23,19 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | 61,965 | 92 | 420 | 2026-11-12 | CC-BY-4.0 | Archived | Multi-agent conversation and orchestration framework. |
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 61,202 | 213 | 1151 | 2026-11-23 | MIT | Active repository | Role-based multi-agent task coordination. |
-| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 45,310 | 283 | 1500 | 2026-11-23 | MIT | Active repository | Stateful graph orchestration for agent workflows. |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 43,269 | 61 | 394 | 2026-11-23 | Apache-2.0 | Active repository | Agent framework with tools, memory and teams. |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 30,842 | 128 | 590 | 2026-11-23 | MIT | Active repository | Agent SDK with tools, handoffs and tracing. |
-| [huggingface/smolagents](https://github.com/huggingface/smolagents) | 30,502 | 110 | 478 | 2026-11-23 | Apache-2.0 | Active repository | Lightweight agents that execute tool calls and code. |
-| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 29,764 | 219 | 717 | 2026-11-23 | NOASSERTION | Active repository | TypeScript agent and workflow framework. |
-| [letta-ai/letta](https://github.com/letta-ai/letta) | 25,521 | 58 | 280 | 2026-10-18 | Apache-2.0 | Active repository | Stateful agents with persistent memory. |
-| [google/adk-python](https://github.com/google/adk-python) | 22,325 | 84 | 339 | 2026-11-23 | Apache-2.0 | Active repository | Agent development toolkit and orchestration. |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21,351 | 111 | 523 | 2026-11-23 | MIT | Active repository | Typed agent application framework. |
-| [camel-ai/camel](https://github.com/camel-ai/camel) | 18,053 | 11 | 90 | 2026-11-23 | Apache-2.0 | Active repository | Multi-agent research and application framework. |
-| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | 11,004 | 21 | 140 | 2026-11-06 | MIT | Active repository | TypeScript agent engineering framework. |
-| [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) | 3,458 | -3 | 15 | 2026-11-20 | Apache-2.0 | Active repository | Framework for building agent workflows. |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | 61,970 | 80 | 416 | 2026-11-12 | CC-BY-4.0 | Archived | Multi-agent conversation and orchestration framework. |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 61,228 | 197 | 1146 | 2026-11-24 | MIT | Active repository | Role-based multi-agent task coordination. |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 45,366 | 294 | 1500 | 2026-11-24 | MIT | Active repository | Stateful graph orchestration for agent workflows. |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 43,285 | 66 | 402 | 2026-11-24 | Apache-2.0 | Active repository | Agent framework with tools, memory and teams. |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 30,855 | 120 | 584 | 2026-11-24 | MIT | Active repository | Agent SDK with tools, handoffs and tracing. |
+| [huggingface/smolagents](https://github.com/huggingface/smolagents) | 30,514 | 108 | 476 | 2026-11-24 | Apache-2.0 | Active repository | Lightweight agents that execute tool calls and code. |
+| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 29,788 | 226 | 723 | 2026-11-24 | NOASSERTION | Active repository | TypeScript agent and workflow framework. |
+| [letta-ai/letta](https://github.com/letta-ai/letta) | 25,532 | 62 | 281 | 2026-10-18 | Apache-2.0 | Active repository | Stateful agents with persistent memory. |
+| [google/adk-python](https://github.com/google/adk-python) | 22,341 | 92 | 341 | 2026-11-24 | Apache-2.0 | Active repository | Agent development toolkit and orchestration. |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | 21,366 | 110 | 510 | 2026-11-24 | MIT | Active repository | Typed agent application framework. |
+| [camel-ai/camel](https://github.com/camel-ai/camel) | 18,059 | 16 | 89 | 2026-11-23 | Apache-2.0 | Active repository | Multi-agent research and application framework. |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | 11,008 | 17 | 141 | 2026-11-06 | MIT | Active repository | TypeScript agent engineering framework. |
+| [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) | 3,459 | -3 | 16 | 2026-11-24 | Apache-2.0 | Active repository | Framework for building agent workflows. |
 
 ### Repository descriptions
 
@@ -57,16 +57,16 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [openai/codex](https://github.com/openai/codex) | 136,239 | 727 | 5494 | 2026-11-23 | Apache-2.0 | Active repository | Coding-agent runtime and command-line tooling. |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 121,846 | 646 | 2830 | 2026-11-22 | MIT | Active repository | Browser automation harness for AI agents. |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 94,154 | 565 | 2447 | 2026-11-23 | MIT | Active repository | Execution environment for software engineering agents. |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56,896 | 212 | 1276 | 2026-11-23 | Apache-2.0 | Active repository | Extensible local agent with tool integrations. |
-| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 50,228 | 85 | 496 | 2026-05-22 | Apache-2.0 | Active repository | Repository-aware coding assistant and execution loop. |
-| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 40,058 | 323 | 1485 | 2026-11-18 | Apache-2.0 | Active repository | Browser tool interface for agent execution. |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 31,538 | 211 | 994 | 2026-11-23 | MIT | Active repository | Agent harness with planning, filesystem tools and delegation. |
-| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20,854 | 34 | 225 | 2026-11-16 | MIT | Active repository | Coding-agent scaffold for resolving repository issues. |
-| [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) | 10,005 | 345 | 1206 | 2026-11-16 | MIT | Active repository | Minimal coding-agent harness for inspection and experimentation. |
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 8,632 | 71 | 291 | 2026-11-20 | MIT | Active repository | SDK for running coding-agent workflows. |
+| [openai/codex](https://github.com/openai/codex) | 136,330 | 687 | 5483 | 2026-11-24 | Apache-2.0 | Active repository | Coding-agent runtime and command-line tooling. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 121,928 | 627 | 2841 | 2026-11-24 | MIT | Active repository | Browser automation harness for AI agents. |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 94,234 | 584 | 2454 | 2026-11-24 | MIT | Active repository | Execution environment for software engineering agents. |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 56,930 | 212 | 1247 | 2026-11-24 | Apache-2.0 | Active repository | Extensible local agent with tool integrations. |
+| [Aider-AI/aider](https://github.com/Aider-AI/aider) | 50,241 | 86 | 498 | 2026-05-22 | Apache-2.0 | Active repository | Repository-aware coding assistant and execution loop. |
+| [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 40,097 | 311 | 1492 | 2026-11-18 | Apache-2.0 | Active repository | Browser tool interface for agent execution. |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 31,557 | 199 | 989 | 2026-11-24 | MIT | Active repository | Agent harness with planning, filesystem tools and delegation. |
+| [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) | 20,866 | 44 | 232 | 2026-11-23 | MIT | Active repository | Coding-agent scaffold for resolving repository issues. |
+| [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) | 10,043 | 351 | 1231 | 2026-11-23 | MIT | Active repository | Minimal coding-agent harness for inspection and experimentation. |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 8,636 | 68 | 289 | 2026-11-23 | MIT | Active repository | SDK for running coding-agent workflows. |
 
 ### Repository descriptions
 
@@ -85,17 +85,17 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 27,589 | 276 | 1224 | 2026-11-23 | MIT | Active repository | Evaluation and red-teaming of LLM applications. |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 19,607 | 95 | 533 | 2026-11-23 | Apache-2.0 | Active repository | Evaluation tests and metrics for LLM systems. |
-| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | 16,408 | 70 | 271 | 2026-11-14 | Apache-2.0 | Active repository | Evaluation of retrieval and LLM application behavior. |
-| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | 14,524 | 38 | 219 | 2026-11-04 | MIT | Active repository | Related model-level evaluation harness; not an agent runtime. |
-| [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) | 6,234 | 34 | 160 | 2026-09-18 | MIT | Active repository | Benchmark and evaluation infrastructure for coding agents. |
-| [truera/trulens](https://github.com/truera/trulens) | 3,668 | 10 | 59 | 2026-11-23 | MIT | Active repository | Evaluation and tracing of LLM applications. |
-| [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) | 3,315 | 51 | 237 | 2026-11-23 | MIT | Active repository | Framework for evaluating language models and agents. |
-| [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | 1,446 | 7 | 31 | 2026-11-18 | NOASSERTION | Active repository | Browser-agent benchmark environments. |
-| [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo) | 1,069 | 28 | 115 | 2026-06-02 | MIT | Active repository | Benchmark for agent prompt-injection defenses. |
-| [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | 756 | 9 | 43 | 2026-11-23 | MIT | Active repository | Evaluation suites built on Inspect. |
-| [ServiceNow/AgentLab](https://github.com/ServiceNow/AgentLab) | 668 | 0 | 11 | 2026-10-06 | NOASSERTION | Active repository | Experiment and evaluation tooling for browser agents. |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 27,627 | 255 | 1224 | 2026-11-24 | MIT | Active repository | Evaluation and red-teaming of LLM applications. |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 19,637 | 109 | 547 | 2026-11-24 | Apache-2.0 | Active repository | Evaluation tests and metrics for LLM systems. |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | 16,418 | 64 | 275 | 2026-11-14 | Apache-2.0 | Active repository | Evaluation of retrieval and LLM application behavior. |
+| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | 14,529 | 36 | 218 | 2026-11-04 | MIT | Active repository | Related model-level evaluation harness; not an agent runtime. |
+| [SWE-bench/SWE-bench](https://github.com/SWE-bench/SWE-bench) | 6,241 | 29 | 158 | 2026-09-18 | MIT | Active repository | Benchmark and evaluation infrastructure for coding agents. |
+| [truera/trulens](https://github.com/truera/trulens) | 3,669 | 9 | 59 | 2026-11-23 | MIT | Active repository | Evaluation and tracing of LLM applications. |
+| [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) | 3,327 | 50 | 240 | 2026-11-24 | MIT | Active repository | Framework for evaluating language models and agents. |
+| [ServiceNow/BrowserGym](https://github.com/ServiceNow/BrowserGym) | 1,448 | 8 | 32 | 2026-11-18 | NOASSERTION | Active repository | Browser-agent benchmark environments. |
+| [ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo) | 1,074 | 25 | 118 | 2026-06-02 | MIT | Active repository | Benchmark for agent prompt-injection defenses. |
+| [UKGovernmentBEIS/inspect_evals](https://github.com/UKGovernmentBEIS/inspect_evals) | 757 | 9 | 42 | 2026-11-23 | MIT | Active repository | Evaluation suites built on Inspect. |
+| [ServiceNow/AgentLab](https://github.com/ServiceNow/AgentLab) | 669 | 1 | 12 | 2026-10-06 | NOASSERTION | Active repository | Experiment and evaluation tooling for browser agents. |
 
 ### Repository descriptions
 
@@ -115,16 +115,16 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 71,285 | -26 | -210 | 2026-07-24 | — | Archived | Sandbox infrastructure for running agent workloads. |
-| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 17,834 | 485 | 1711 | 2026-11-23 | Apache-2.0 | Active repository | Sandbox runtime for isolating AI agent execution. |
-| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | 14,982 | 91 | 453 | 2026-11-23 | Apache-2.0 | Active repository | Isolated execution environments for agent-generated code. |
-| [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) | 12,013 | 110 | 526 | 2026-11-23 | MIT | Active repository | Sensitive-data detection and redaction for AI data flows. |
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | 10,142 | 93 | 461 | 2026-11-18 | Apache-2.0 | Active repository | LLM vulnerability probing and security evaluation. |
-| [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) | 7,639 | 25 | 81 | 2026-11-18 | Apache-2.0 | Active repository | Validation and guardrails for model outputs. |
-| [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | 7,558 | 49 | 199 | 2026-11-19 | NOASSERTION | Active repository | Programmable guardrails for conversational and agent systems. |
-| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | 5,035 | 158 | 356 | 2026-11-23 | MIT | Active repository | Risk identification and adversarial testing for generative AI. |
-| [protectai/llm-guard](https://github.com/protectai/llm-guard) | 3,223 | 7 | 4 | 2026-07-08 | MIT | Archived | Input and output security scanning for LLM applications. |
-| [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) | 479 | 2 | 5 | 2026-01-12 | Apache-2.0 | Active repository | Security policies and analysis for agent behavior. |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 71,279 | -24 | -209 | 2026-07-24 | — | Archived | Sandbox infrastructure for running agent workloads. |
+| [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | 17,878 | 423 | 1728 | 2026-11-24 | Apache-2.0 | Active repository | Sandbox runtime for isolating AI agent execution. |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | 14,996 | 89 | 449 | 2026-11-23 | Apache-2.0 | Active repository | Isolated execution environments for agent-generated code. |
+| [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) | 12,030 | 108 | 531 | 2026-11-24 | MIT | Active repository | Sensitive-data detection and redaction for AI data flows. |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | 10,162 | 98 | 470 | 2026-11-23 | Apache-2.0 | Active repository | LLM vulnerability probing and security evaluation. |
+| [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) | 7,640 | 20 | 81 | 2026-11-24 | Apache-2.0 | Active repository | Validation and guardrails for model outputs. |
+| [NVIDIA-NeMo/Guardrails](https://github.com/NVIDIA-NeMo/Guardrails) | 7,571 | 54 | 207 | 2026-11-24 | NOASSERTION | Active repository | Programmable guardrails for conversational and agent systems. |
+| [microsoft/PyRIT](https://github.com/microsoft/PyRIT) | 5,051 | 133 | 365 | 2026-11-24 | MIT | Active repository | Risk identification and adversarial testing for generative AI. |
+| [protectai/llm-guard](https://github.com/protectai/llm-guard) | 3,223 | 7 | 5 | 2026-07-08 | MIT | Archived | Input and output security scanning for LLM applications. |
+| [invariantlabs-ai/invariant](https://github.com/invariantlabs-ai/invariant) | 479 | 2 | 4 | 2026-01-12 | Apache-2.0 | Active repository | Security policies and analysis for agent behavior. |
 
 ### Repository descriptions
 
@@ -143,14 +143,14 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [apache/casbin](https://github.com/apache/casbin) | 20,510 | 10 | 43 | 2026-11-21 | Apache-2.0 | Active repository | Access-control library applicable to agent permissions. |
-| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | 12,510 | 35 | 113 | 2026-11-23 | Apache-2.0 | Active repository | General-purpose policy engine applicable to agent authorization. |
-| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6,599 | 27 | 140 | 2026-11-23 | MIT | Active repository | Runtime governance and policy controls for autonomous agents. |
-| [openfga/openfga](https://github.com/openfga/openfga) | 6,184 | 36 | 155 | 2026-11-20 | Apache-2.0 | Active repository | Relationship-based authorization infrastructure for tool access. |
-| [cerbos/cerbos](https://github.com/cerbos/cerbos) | 4,668 | 7 | 38 | 2026-11-23 | Apache-2.0 | Active repository | Application authorization policies applicable to agent tools. |
-| [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) | 2,310 | -1 | 9 | 2026-11-21 | MIT | Active repository | Related fairness assessment tooling; not an agent policy engine. |
-| [cedar-policy/cedar](https://github.com/cedar-policy/cedar) | 1,893 | 16 | 82 | 2026-11-23 | Apache-2.0 | Active repository | Authorization policy language applicable to agent permissions. |
-| [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) | 1,860 | 2 | 12 | 2026-11-23 | MIT | Active repository | Related responsible-AI assessment and debugging tooling. |
+| [apache/casbin](https://github.com/apache/casbin) | 20,510 | 9 | 41 | 2026-11-21 | Apache-2.0 | Active repository | Access-control library applicable to agent permissions. |
+| [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | 12,517 | 35 | 118 | 2026-11-24 | Apache-2.0 | Active repository | General-purpose policy engine applicable to agent authorization. |
+| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 6,602 | 26 | 135 | 2026-11-24 | MIT | Active repository | Runtime governance and policy controls for autonomous agents. |
+| [openfga/openfga](https://github.com/openfga/openfga) | 6,190 | 35 | 156 | 2026-11-24 | Apache-2.0 | Active repository | Relationship-based authorization infrastructure for tool access. |
+| [cerbos/cerbos](https://github.com/cerbos/cerbos) | 4,669 | 8 | 38 | 2026-11-23 | Apache-2.0 | Active repository | Application authorization policies applicable to agent tools. |
+| [fairlearn/fairlearn](https://github.com/fairlearn/fairlearn) | 2,311 | 1 | 10 | 2026-11-21 | MIT | Active repository | Related fairness assessment tooling; not an agent policy engine. |
+| [cedar-policy/cedar](https://github.com/cedar-policy/cedar) | 1,895 | 16 | 81 | 2026-11-24 | Apache-2.0 | Active repository | Authorization policy language applicable to agent permissions. |
+| [microsoft/responsible-ai-toolbox](https://github.com/microsoft/responsible-ai-toolbox) | 1,860 | 2 | 12 | 2026-11-24 | MIT | Active repository | Related responsible-AI assessment and debugging tooling. |
 
 ### Repository descriptions
 
@@ -167,18 +167,18 @@ The inclusion notes are editorial assessments. GitHub descriptions, metrics, lic
 
 | Repository | Stars | Δ 7d | Δ 30d | Last push (UTC) | License | Status | Why included |
 | --- | ---: | ---: | ---: | --- | --- | --- | --- |
-| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 92,191 | 146 | 654 | 2026-11-19 | NOASSERTION | Active repository | Reference tool servers for agent integrations. |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69,380 | 314 | 1651 | 2026-11-23 | Apache-2.0 | Active repository | Persistent memory infrastructure for AI agents. |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 63,773 | 427 | 1826 | 2026-11-23 | NOASSERTION | Active repository | Model gateway with usage and access controls. |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,755 | 261 | 1467 | 2026-11-23 | NOASSERTION | Active repository | LLM and agent tracing, evaluation and observability. |
-| [getzep/graphiti](https://github.com/getzep/graphiti) | 33,031 | 183 | 855 | 2026-11-23 | Apache-2.0 | Active repository | Temporal knowledge graphs for agent memory. |
-| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 28,719 | 140 | 533 | 2026-11-23 | Apache-2.0 | Active repository | Framework for building MCP servers and clients. |
-| [a2aproject/A2A](https://github.com/a2aproject/A2A) | 26,643 | 83 | 365 | 2026-11-20 | Apache-2.0 | Active repository | Agent-to-agent interoperability protocol. |
-| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 24,947 | 76 | 291 | 2026-11-17 | MIT | Active repository | Python SDK for the Model Context Protocol. |
-| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 13,812 | 39 | 170 | 2026-11-19 | NOASSERTION | Active repository | TypeScript SDK for the Model Context Protocol. |
-| [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12,386 | 70 | 407 | 2026-11-23 | NOASSERTION | Active repository | Tracing and evaluation for LLM and agent applications. |
-| [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) | 5,972 | 9 | 60 | 2026-06-25 | MIT | Active repository | Observability and monitoring for agent runs. |
-| [openlit/openlit](https://github.com/openlit/openlit) | 3,099 | 16 | 219 | 2026-11-23 | Apache-2.0 | Active repository | OpenTelemetry-based observability for AI systems. |
+| [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | 92,215 | 146 | 666 | 2026-11-24 | NOASSERTION | Active repository | Reference tool servers for agent integrations. |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 69,422 | 307 | 1648 | 2026-11-24 | Apache-2.0 | Active repository | Persistent memory infrastructure for AI agents. |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 63,825 | 402 | 1823 | 2026-11-24 | NOASSERTION | Active repository | Model gateway with usage and access controls. |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 37,796 | 249 | 1366 | 2026-11-24 | NOASSERTION | Active repository | LLM and agent tracing, evaluation and observability. |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 33,061 | 176 | 866 | 2026-11-24 | Apache-2.0 | Active repository | Temporal knowledge graphs for agent memory. |
+| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 28,735 | 113 | 537 | 2026-11-24 | Apache-2.0 | Active repository | Framework for building MCP servers and clients. |
+| [a2aproject/A2A](https://github.com/a2aproject/A2A) | 26,670 | 106 | 381 | 2026-11-24 | Apache-2.0 | Active repository | Agent-to-agent interoperability protocol. |
+| [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) | 24,954 | 73 | 291 | 2026-11-17 | MIT | Active repository | Python SDK for the Model Context Protocol. |
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 13,815 | 40 | 165 | 2026-11-19 | NOASSERTION | Active repository | TypeScript SDK for the Model Context Protocol. |
+| [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) | 12,405 | 79 | 410 | 2026-11-24 | NOASSERTION | Active repository | Tracing and evaluation for LLM and agent applications. |
+| [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) | 5,972 | 10 | 58 | 2026-06-25 | MIT | Active repository | Observability and monitoring for agent runs. |
+| [openlit/openlit](https://github.com/openlit/openlit) | 3,101 | 13 | 220 | 2026-11-23 | Apache-2.0 | Active repository | OpenTelemetry-based observability for AI systems. |
 
 ### Repository descriptions
 
